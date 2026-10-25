@@ -1,0 +1,8 @@
+# 运行产物
+__pycache__/
+*.py[cod]
+*.part
+
+# 默认共享目录（如果落在仓库里）
+LanDrop/
+.shared-text.json
